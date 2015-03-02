@@ -1,0 +1,10 @@
+adapter 88
+hardware 93
+keyboard 86
+memory 119
+microphone 116
+monitor 103
+motherboard 90
+mouse 104
+peripherals 97
+software 104
